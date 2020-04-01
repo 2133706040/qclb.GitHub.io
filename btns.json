@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "text": "二维码",
+            "href": "https://cli.im/",
+            "color": "#23aaf2"
+        },
+        {
+            "text": "软件",
+            "href": "https://apkcombo.com/zh-cn/apk-downloader/",
+            "color": "#44c546"
+        }
+    ],
+    "message": "success"
+}
